@@ -1,3 +1,3 @@
-FROM manimcommunity/manim:v0.14.0
+FROM manimcommunity/manim:v0.15.0
 
 COPY --chown=manimuser:manimuser . /manim
